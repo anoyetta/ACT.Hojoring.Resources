@@ -109,6 +109,8 @@ resources\icon\Job\MRD_Solid.png https://raw.githubusercontent.com/anoyetta/ACT.
 resources\icon\Job\MRD.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Job/MRD.png 0C1C5FE9A74A476170452D88FE76B478
 resources\icon\Job\NIN_Solid.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Job/NIN_Solid.png 9DC856893FB278F0EE4C244DA0BAC056
 resources\icon\Job\NIN.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Job/NIN.png 0C592195FFB4CD70492E19A649548D02
+resources\icon\Job\PCT_Solid.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Job/PCT_Solid.png 521CE48010542977D3F21A1D0DE6AA60
+resources\icon\Job\PCT.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Job/PCT.png 580E65B372928CED4ED3782AF3345D43
 resources\icon\Job\PLD_Solid.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Job/PLD_Solid.png 3C5C18F3BCE2A6DB2E81117A9E029DD6
 resources\icon\Job\PLD.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Job/PLD.png 99327DC1B948A67510A43AD2129BA1AD
 resources\icon\Job\PUG_Solid.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Job/PUG_Solid.png 6D75BF7FB864B52E0B5656999551EB65
@@ -130,6 +132,8 @@ resources\icon\Job\SMN.png https://raw.githubusercontent.com/anoyetta/ACT.Hojori
 resources\icon\Job\THM_Solid.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Job/THM_Solid.png 7C6DCA527D38C667C7E2849A5FA9F8BF
 resources\icon\Job\THM.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Job/THM.png 7A098F3D5DA978B523A1FA8B0A580887
 resources\icon\Job\Unknown.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Job/Unknown.png 187EA6EDD002FD626167E1E7C88EA5D8
+resources\icon\Job\VPR_Solid.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Job/VPR_Solid.png B4C562A96DB9045B9CE19BC2814F4235
+resources\icon\Job\VPR.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Job/VPR.png 0053F68A0A52D9F6AB2995937D76BD30
 resources\icon\Job\WAR_Solid.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Job/WAR_Solid.png 64A6C669895B34751B7F10ED194E4E5F
 resources\icon\Job\WAR.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Job/WAR.png 6AB8E7D688256A25844702C74CA8D50F
 resources\icon\Job\WHM_Solid.png https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/icon/Job/WHM_Solid.png 80AEE0243C6264DD4289A72C16222652
