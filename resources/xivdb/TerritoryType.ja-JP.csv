@@ -1,5 +1,6 @@
 ﻿key,0,1,2
 #,TerritoryIntendedUse,Resident,ContentFinderCondition
+int32,TerritoryIntendedUse,uint16,ContentFinderCondition
 142,10,68,アマジナ杯闘技会決勝戦
 159,3,26,旅神聖域 ワンダラーパレス
 160,3,19,怪鳥巨塔 シリウス大灯台

@@ -1,5 +1,6 @@
 ﻿key,0,1,2
 #,TerritoryIntendedUse,Resident,ContentFinderCondition
+int32,TerritoryIntendedUse,uint16,ContentFinderCondition
 142,10,68,le Col du dragon
 159,3,26,le Palais du Vagabond
 160,3,19,le Phare de Sirius
