@@ -384,9 +384,9 @@ resources\xivdb\Status.fr-FR.csv https://raw.githubusercontent.com/anoyetta/ACT.
 resources\xivdb\Status.ja-JP.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Status.ja-JP.csv 77A2C037A61134270B426CA528D50127
 resources\xivdb\Status.ko-KR.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Status.ko-KR.csv E9484D8AFD432A19F9A629ADBC9F0697
 resources\xivdb\Status.zh-CN.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Status.zh-CN.csv DF39AED8549A140A523673F434F958C7
-resources\xivdb\TerritoryType.de-DE.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/TerritoryType.de-DE.csv C1F120180E42142BB588987797152D61
-resources\xivdb\TerritoryType.en-US.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/TerritoryType.en-US.csv 3898F010A0127756A859217E55E157BD
-resources\xivdb\TerritoryType.fr-FR.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/TerritoryType.fr-FR.csv 6FD05DBAAA4D8A760D80B7A883BB0289
-resources\xivdb\TerritoryType.ja-JP.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/TerritoryType.ja-JP.csv 59B4768C20E21A031BC693FE73DD6BE3
+resources\xivdb\TerritoryType.de-DE.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/TerritoryType.de-DE.csv B579989221161E0A3449F60C23B541A4
+resources\xivdb\TerritoryType.en-US.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/TerritoryType.en-US.csv 5140EC5A75D11CEBEF59FA637745F3B7
+resources\xivdb\TerritoryType.fr-FR.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/TerritoryType.fr-FR.csv 4FDF9019018CEE1713B57B38463EB920
+resources\xivdb\TerritoryType.ja-JP.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/TerritoryType.ja-JP.csv 6FAF360D221DD2E59233DC85BAA372FD
 resources\xivdb\TerritoryType.ko-KR.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/TerritoryType.ko-KR.csv 51A21C9D100C818A34912D1B9D973554
 resources\xivdb\TerritoryType.zh-CN.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/TerritoryType.zh-CN.csv 8FF40BE903D022CE306736E359B284FC
