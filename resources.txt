@@ -372,10 +372,10 @@ resources\wav\system46.wav https://raw.githubusercontent.com/anoyetta/ACT.Hojori
 resources\wav\system47.wav https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/wav/system47.wav DA5219739E40FD5A2D29A72C8C27CC91
 
 # resources\xivdb
-resources\xivdb\Action.de-DE.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Action.de-DE.csv 6AF2030099D7A917EF02E87B0A2C8EEF
-resources\xivdb\Action.en-US.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Action.en-US.csv 0ECA7E4A974EEE767173FDB38845C181
-resources\xivdb\Action.fr-FR.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Action.fr-FR.csv C1DF7C674DB0D6E89EA78F6FF95365CD
-resources\xivdb\Action.ja-JP.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Action.ja-JP.csv 2138AB478D2D2DA4DEC40DE1C125F4B1
+resources\xivdb\Action.de-DE.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Action.de-DE.csv 8F880D283EB44849937569C0662075D0
+resources\xivdb\Action.en-US.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Action.en-US.csv B7DBBA83A03C05F4864F060545BAB38C
+resources\xivdb\Action.fr-FR.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Action.fr-FR.csv 9E2E49EECA871515E84FFADBAE1A6FC5
+resources\xivdb\Action.ja-JP.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Action.ja-JP.csv DA2EC8056AE7ADEDFF1B2B99276A068E
 resources\xivdb\Action.ko-KR.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Action.ko-KR.csv EFACC008137EC2088BBD73FBFCF6FCE3
 resources\xivdb\Action.zh-CN.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Action.zh-CN.csv 0A9158B2BBF73A538794A45C0114ED64
 resources\xivdb\Status.de-DE.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Status.de-DE.csv BA1E7D3080F0737450E62F3533CCBD55
