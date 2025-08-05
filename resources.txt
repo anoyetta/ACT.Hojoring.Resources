@@ -372,21 +372,21 @@ resources\wav\system46.wav https://raw.githubusercontent.com/anoyetta/ACT.Hojori
 resources\wav\system47.wav https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/wav/system47.wav DA5219739E40FD5A2D29A72C8C27CC91
 
 # resources\xivdb
-resources\xivdb\Action.de-DE.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Action.de-DE.csv 5067E017D233A6B1C47041FCC6D194BC
-resources\xivdb\Action.en-US.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Action.en-US.csv E45761B6F3DBCE579B2619C065373710
-resources\xivdb\Action.fr-FR.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Action.fr-FR.csv E36A51E3B1F65ED92FD3974DE30B786B
-resources\xivdb\Action.ja-JP.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Action.ja-JP.csv 7A6724F9DB1826143934054A688DD320
+resources\xivdb\Action.de-DE.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Action.de-DE.csv FC7EFCAF019E6B213A1542E6DF456405
+resources\xivdb\Action.en-US.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Action.en-US.csv D0BCA553B876A55F8E5042AD5E3140F8
+resources\xivdb\Action.fr-FR.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Action.fr-FR.csv 492E91D0D597D61820B17F65D477BC99
+resources\xivdb\Action.ja-JP.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Action.ja-JP.csv DCC7A379FFF8F9D5D70E9CC687C9F459
 resources\xivdb\Action.ko-KR.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Action.ko-KR.csv 0E826DEA539CC931147539292BEF387E
 resources\xivdb\Action.zh-CN.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Action.zh-CN.csv 0A9158B2BBF73A538794A45C0114ED64
-resources\xivdb\Status.de-DE.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Status.de-DE.csv EB4FA6F741C8560D7DB59F13F1688C32
-resources\xivdb\Status.en-US.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Status.en-US.csv E4F69CDCD5F7EB5FF988E18AC3A1C726
-resources\xivdb\Status.fr-FR.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Status.fr-FR.csv F94C1D0D9692A098AD9D74A843AA6D2A
-resources\xivdb\Status.ja-JP.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Status.ja-JP.csv 1BDFB9BAEAF4DFE7B30288AF50A52BBD
+resources\xivdb\Status.de-DE.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Status.de-DE.csv 8E82AD57BD6B67B2208DF9D7EDB0BB2B
+resources\xivdb\Status.en-US.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Status.en-US.csv DBAF92EA673CDFB4A4E25EB1832C1D03
+resources\xivdb\Status.fr-FR.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Status.fr-FR.csv EFA519FD6436F12AAC1E3433CCE65F3D
+resources\xivdb\Status.ja-JP.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Status.ja-JP.csv D7608576ED30D4489BFBC68F19EFE647
 resources\xivdb\Status.ko-KR.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Status.ko-KR.csv 489068111E02C06916C313E736B2B777
 resources\xivdb\Status.zh-CN.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/Status.zh-CN.csv DF39AED8549A140A523673F434F958C7
-resources\xivdb\TerritoryType.de-DE.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/TerritoryType.de-DE.csv 8B49BF069E4DBC1A25484A01195179B8
-resources\xivdb\TerritoryType.en-US.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/TerritoryType.en-US.csv 9812356975F9620C433F0521984A0765
-resources\xivdb\TerritoryType.fr-FR.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/TerritoryType.fr-FR.csv 9CD51866543950DEA0D0853C803C6EB0
-resources\xivdb\TerritoryType.ja-JP.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/TerritoryType.ja-JP.csv FD57CA4572873724EB3223C266A0E829
+resources\xivdb\TerritoryType.de-DE.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/TerritoryType.de-DE.csv DF1B50D7E9451C7F6409FC700DFD5480
+resources\xivdb\TerritoryType.en-US.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/TerritoryType.en-US.csv D689AA29DAAF1E942303DF62CDB0F7B4
+resources\xivdb\TerritoryType.fr-FR.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/TerritoryType.fr-FR.csv E8D62E0C2B9557D1C6880AC20DE37E20
+resources\xivdb\TerritoryType.ja-JP.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/TerritoryType.ja-JP.csv 65DA0999A5213614121A2EB10E8EC574
 resources\xivdb\TerritoryType.ko-KR.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/TerritoryType.ko-KR.csv ECCCE83B90A533AFCE88770683E59CB9
 resources\xivdb\TerritoryType.zh-CN.csv https://raw.githubusercontent.com/anoyetta/ACT.Hojoring.Resources/master/resources/xivdb/TerritoryType.zh-CN.csv 8FF40BE903D022CE306736E359B284FC
